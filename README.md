@@ -19,7 +19,7 @@
   </a> 
 </p>
 
-[![Barry's github stats](https://github-readme-stats.vercel.app/api?username=barryyan&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Barry's github stats](https://github-readme-stats.vercel.app/api?username=BleemIs42&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning **`Rust`**
 
