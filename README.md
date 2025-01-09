@@ -1,12 +1,12 @@
 <p>
   <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Rust-000.svg?style=flat-square" alt="Rust">
+  </a>
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DBFB.svg?style=flat-square" alt="React">
   </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/Golang-00ADD8.svg?style=flat-square" alt="Golang">
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/Rust-000.svg?style=flat-square" alt="Rust">
   </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/TypeScript-blue.svg?style=flat-square" alt="TypeScript">
